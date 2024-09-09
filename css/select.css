@@ -1,0 +1,58 @@
+h1{
+    text-align: center;
+    margin-top: 10px;
+
+}
+
+
+
+
+
+
+
+
+ul{
+    text-align: center;
+}
+
+th{
+    background-color:#f9f9f9;
+    width: auto;
+    
+}
+
+.left_style{
+    text-align: right;
+}
+
+
+
+
+  table{
+    
+    justify-content: center;
+    border-collapse:  collapse;   
+    width: 100%;
+    table-layout: fixed;
+     
+  }
+
+  th,td,tr {
+    border: solid 1px;              /* 枠線指定 */
+    padding: 10px;      /* 余白指定 */
+    border: 1px solid #ccc;
+    word-wrap: break-word;
+    
+}
+
+.gurafu{
+    margin-top: 60px;
+}
+
+.meyasu{
+    text-align: center;
+}
+
+.legend{
+    text-align: center;
+}
